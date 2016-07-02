@@ -1,3 +1,4 @@
+'use strict';
 const treeify = require('treeify');
 const set = require('lodash.set');
 
