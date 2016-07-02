@@ -17,7 +17,7 @@ npm -g i ki-cli
 ### Usage
 
 ```
-$ ki-cli a b c foo.hoge bar.fuga baz.piyo long.long.long.depth
+$ ki a b c foo.hoge bar.fuga baz.piyo long.long.long.depth
 ├─ a
 ├─ b
 ├─ c
