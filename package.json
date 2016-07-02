@@ -1,10 +1,10 @@
 {
   "name": "ki-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create custom tree in cli",
   "main": "index.js",
   "bin": {
-    "ki-cli": "./bin/ki-cli.js"
+    "ki": "./bin/ki.js"
   },
   "scripts": {
     "test": "xo && ava"
