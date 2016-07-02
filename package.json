@@ -1,5 +1,5 @@
 {
-  "name": "ki-cli-cli",
+  "name": "ki-cli",
   "version": "0.0.1",
   "description": "Create custom tree in cli",
   "main": "index.js",
