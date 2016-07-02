@@ -1,0 +1,43 @@
+{
+  "name": "ki",
+  "version": "0.0.1",
+  "description": "Create custom tree in cli",
+  "main": "index.js",
+  "bin": {
+    "ki": "./bin/ki.js"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totora0155/ki.git"
+  },
+  "keywords": [
+    "cli",
+    "tree"
+  ],
+  "author": "nju33",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/totora0155/ki/issues"
+  },
+  "homepage": "https://github.com/totora0155/ki#readme",
+  "dependencies": {
+    "lodash.set": "^4.2.0",
+    "meow": "^3.7.0",
+    "treeify": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "sinon": "^1.17.4",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "env": [
+      "node"
+    ],
+    "esnext": true,
+    "space": 2
+  }
+}
