@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/totora0155/ki-cli.git"
+    "url": "https://github.com/scillidan/ki-cli-hyphen.git"
   },
   "keywords": [
     "cli",
@@ -20,9 +20,9 @@
   "author": "nju33",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/totora0155/ki-cli/issues"
+    "url": "https://github.com/scillidan/ki-cli-hyphen/issues"
   },
-  "homepage": "https://github.com/totora0155/ki-cli#readme",
+  "homepage": "https://github.com/scillidan/ki-cli-hyphen#readme",
   "dependencies": {
     "ki-cli-hyphen": "^0.1.0",
     "lodash.set": "^4.2.0",
