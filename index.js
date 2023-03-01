@@ -1,5 +1,5 @@
 'use strict';
-const treeify = require('treeify');
+const treeify = require('treeify-hyphen');
 const set = require('lodash.set');
 
 const ki = function ki(inputs) {

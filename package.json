@@ -1,10 +1,10 @@
 {
-  "name": "ki-cli",
-  "version": "0.0.4",
+  "name": "ki-cli-hyphen",
+  "version": "0.1.0",
   "description": "Create custom tree in cli",
   "main": "index.js",
   "bin": {
-    "ki": "./bin/ki.js"
+    "ki": "bin/ki.js"
   },
   "scripts": {
     "test": "xo && ava"
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/totora0155/ki-cli#readme",
   "dependencies": {
+    "ki-cli-hyphen": "^0.1.0",
     "lodash.set": "^4.2.0",
     "meow": "^3.7.0",
     "treeify-hyphen": "^0.1.0"
@@ -39,5 +40,8 @@
     ],
     "esnext": true,
     "space": 2
+  },
+  "directories": {
+    "test": "test"
   }
 }
