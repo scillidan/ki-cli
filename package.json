@@ -1,6 +1,6 @@
 {
   "name": "ki-cli-hyphen",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Create custom tree in cli",
   "main": "index.js",
   "bin": {
