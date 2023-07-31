@@ -1,4 +1,3 @@
-ki-cli-hyphen
-===
+## Note
 
-maybe used with [mkdirs](https://github.com/dolanor/mkdirs).
+Maybe used with [mkdirs](https://github.com/dolanor/mkdirs).
