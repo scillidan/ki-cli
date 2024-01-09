@@ -1,17 +1,17 @@
 {
   "name": "ki-cli-hyphen",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Create custom tree in cli",
   "main": "index.js",
   "bin": {
-    "ki": "bin/ki.js"
+    "ki-hyp": "bin/ki.js"
   },
   "scripts": {
     "test": "xo && ava"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scillidan/ki-cli-hyphen.git"
+    "url": "git+https://github.com/scillidan/ki-cli-hyphen.git"
   },
   "keywords": [
     "cli",
